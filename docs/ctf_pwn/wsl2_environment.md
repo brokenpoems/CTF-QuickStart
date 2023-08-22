@@ -7,7 +7,7 @@
 可以选择现在比较流行的`Linux`发行版
 例如 Ubuntu,Arch 等等,下面我使用`kali`~~我用的环境~~的发行版
 
-虚拟机环境也很多种 例如 VirtualBox,Docker
+虚拟机环境也很多种 例如 VirtualBox
 下面主要用`WSL 2`~~我用的环境~~为主
 ### WSL 2(安装麻烦,但是用起来简单)
 
